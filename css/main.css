@@ -72,3 +72,8 @@ body {
 .text-container a:hover {
     text-decoration: underline;
 }
+
+.text-container p {
+    color: #fff;
+    padding: 10px;
+}
